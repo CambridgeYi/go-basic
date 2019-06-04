@@ -1,0 +1,25 @@
+info:
+  contact: {}
+  license: {}
+paths:
+  /insert:
+    get:
+      consumes:
+      - application/json
+      parameters:
+      - description: string valid
+        in: query
+        name: name
+        type: string
+      - description: string valid
+        in: query
+        name: money
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: ok
+          schema:
+            type: string
+      summary: add user
