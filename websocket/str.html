@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>websocket</title>
+</head>
+<body>
+<form>
+    <input type="text" id="msg">
+    <input type="submit" id="sendBtn" value="发送">
+</form>
+<div id="result"></div>
+<script type="text/javascript">
+    var url="ws://127.0.0.1:8080";
+    var ws =new WebSocket(url);
+    // ws打开时
+    ws.onopen = function(){
+        console.log("connect ...");
+    };
+    // ws连接关闭时
+    ws.onclose = function(){
+        console.log("close");
+    };
+    // 监听服务器推送数据
+    ws.onmessage =function(ev){
+        var result = document.getElementById("result");
+        result.innerHTML =result.innerHTML+"<p>"+ev.data+"</p>";
+    };
+
+    document.getElementById("sendBtn").onclick =function () {
+        var msg =document.getElementById("msg").value;
+        if(msg.length==0){
+            alert("不能为空");
+        }
+        // 发送数据
+        ws.send(msg);
+        return false;
+    }
+</script>
+</body>
+</html>

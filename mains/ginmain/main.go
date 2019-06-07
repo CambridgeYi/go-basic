@@ -5,7 +5,7 @@
 @Software: GoLand
 @Description:
 */
-package ginmain
+package main
 
 import (
 	"github.com/gin-gonic/gin"
