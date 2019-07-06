@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd68d918-8cd9-4bdc-90a6-a25f9655a223" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delay/delayjob.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fsnotify/myfsnotify.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fsnotify/mynotify2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fsnotify/mynotify3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/delay/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/fsnotify/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/fsnotify2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/fsnotify3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/template/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mains/websocket/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/path/gopath.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/template.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/str.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/websocket.go" afterDir="false" />
+    <list default="true" id="cd68d918-8cd9-4bdc-90a6-a25f9655a223" name="默认更改列表" comment="默认更改列表">
+      <change afterPath="$PROJECT_DIR$/Func/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/cc3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/cc4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/cc5.1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/cc5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/chan0cap/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/chanbase/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/chanbase0/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/chanclose/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/chanconv/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/chantimeout/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/chantimeout2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/copiedvalue/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/go-for/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/once/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/repeatedlylock/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/repeatedlyunlock/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/rlock/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/select/selectval.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/selectfor/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/selectrandom/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/tickercase/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/timerbase/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mains/ginmain/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/mains/ginmain/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,130 +38,115 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fsnotify/myfsnotify.go">
+        <entry file="file://$PROJECT_DIR$/concurrency/chantimeout/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="484">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               <folding>
-                <element signature="e#120#169#0" expanded="true" />
-                <element signature="e#470#487#0" expanded="true" />
+                <element signature="e#98#123#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fsnotify/mynotify2.go">
+        <entry file="file://$PROJECT_DIR$/concurrency/tickercase/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="364">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="e#119#178#0" expanded="true" />
-                <element signature="n#!!block;n#WatchDir#0" expanded="true" />
-                <element signature="e#369#390#0" expanded="true" />
-                <element signature="e#1396#1415#0" expanded="true" />
+                <element signature="e#98#123#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fsnotify/mynotify3.go">
+        <entry file="file://$PROJECT_DIR$/concurrency/repeatedlylock/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-621">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="242">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
               <folding>
-                <element signature="e#112#142#0" expanded="true" />
-                <element signature="n#!!block;n#GetPid#0" expanded="true" />
-                <element signature="n#!!block;n#StartProcess#0" expanded="true" />
-                <element signature="e#856#878#0" expanded="true" />
+                <element signature="e#98#123#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mains/fsnotify3/main.go">
+        <entry file="file://$PROJECT_DIR$/concurrency/repeatedlyunlock/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+            <state relative-caret-position="194">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
-                <element signature="e#108#157#0" expanded="true" />
+                <element signature="e#98#125#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/delay/delayjob.go">
+        <entry file="file://$PROJECT_DIR$/concurrency/rlock/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="111" selection-start-line="111" selection-end-line="111" />
+            <state relative-caret-position="260">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#163#188#0" expanded="true" />
-                <element signature="n#!!block;n#NewDelayMessage#0" expanded="true" />
-                <element signature="n#!!block;n#Start#0" expanded="true" />
-                <element signature="n#!!block;n#Close#0" expanded="true" />
-                <element signature="e#1130#1155#0" expanded="true" />
-                <element signature="n#!!block;n#timeLoop#0" expanded="true" />
-                <element signature="n#!!block;n#AddTask#0" expanded="true" />
+                <element signature="e#101#126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concurrency/copiedvalue/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#98#130#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mains/template/main.go">
+        <entry file="file://$PROJECT_DIR$/concurrency/once/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="206" column="60" selection-start-line="206" selection-start-column="60" selection-end-line="206" selection-end-column="60" />
+            <state relative-caret-position="506">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
-                <element signature="e#108#141#0" expanded="true" />
-                <element signature="e#454#474#0" expanded="true" />
-                <element signature="e#681#699#0" expanded="true" />
-                <element signature="e#1144#1161#0" expanded="true" />
-                <element signature="e#1480#1519#0" expanded="true" />
-                <element signature="e#2042#2076#0" expanded="true" />
-                <element signature="e#2698#2733#0" expanded="true" />
+                <element signature="e#101#132#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mains/delay/main.go">
+        <entry file="file://C:/Go/src/runtime/panic.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="204">
+              <caret line="662" selection-start-line="662" selection-end-line="662" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concurrency/chantimeout2/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
               <folding>
-                <element signature="e#108#144#0" expanded="true" />
+                <element signature="e#99#124#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mains/fsnotify2/main.go">
+        <entry file="file://C:/Go/src/runtime/proc.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="e#108#171#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mains/fsnotify/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#108#173#0" expanded="true" />
-                <element signature="n#!!block;n#main#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="6512">
+              <caret line="301" selection-start-line="301" selection-end-line="301" />
             </state>
           </provider>
         </entry>
@@ -177,7 +167,7 @@
       <find>PrintGroupByBufferChannel</find>
     </findStrings>
   </component>
-  <component name="GOROOT" path="E:\Go" />
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -187,31 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mains/chatclientmain/chatclientmain.go" />
-        <option value="$PROJECT_DIR$/chat/chatclient/client.go" />
-        <option value="$PROJECT_DIR$/chat/chatserver/server.go" />
-        <option value="$PROJECT_DIR$/mains/chatservermain/main.go" />
-        <option value="$PROJECT_DIR$/concurrency/prodcons/consumer.go" />
-        <option value="$PROJECT_DIR$/concurrency/prodcons/producer.go" />
-        <option value="$PROJECT_DIR$/concurrency/pubsub/pubsub.go" />
-        <option value="$PROJECT_DIR$/concurrency/channel/channel.go" />
-        <option value="$PROJECT_DIR$/concurrency/mutex/mutex.go" />
-        <option value="$PROJECT_DIR$/context/context.go" />
-        <option value="$PROJECT_DIR$/context/context1.go" />
-        <option value="$PROJECT_DIR$/context/contextvalue.go" />
-        <option value="$PROJECT_DIR$/crawler/model/profile.go" />
-        <option value="$PROJECT_DIR$/crawler/model/type.go" />
-        <option value="$PROJECT_DIR$/crawler/fetcher/fetcher.go" />
-        <option value="$PROJECT_DIR$/crawler/scheduler/queued.go" />
-        <option value="$PROJECT_DIR$/crawler/scheduler/queuescheduler.go" />
-        <option value="$PROJECT_DIR$/crawler/scheduler/readynotifier.go" />
-        <option value="$PROJECT_DIR$/crawler/scheduler/scheduler.go" />
-        <option value="$PROJECT_DIR$/crawler/scheduler/simplescheduler.go" />
-        <option value="$PROJECT_DIR$/crawler/engine/concurrentEngine.go" />
-        <option value="$PROJECT_DIR$/util/err.go" />
-        <option value="$PROJECT_DIR$/limit/ratelimiter.go" />
-        <option value="$PROJECT_DIR$/limit/windowlimiter.go" />
-        <option value="$PROJECT_DIR$/log/log.go" />
         <option value="$PROJECT_DIR$/model/user.go" />
         <option value="$PROJECT_DIR$/router/router.go" />
         <option value="$PROJECT_DIR$/pprof/pprof.go" />
@@ -238,6 +203,31 @@
         <option value="$PROJECT_DIR$/mains/delay/main.go" />
         <option value="$PROJECT_DIR$/template/template.go" />
         <option value="$PROJECT_DIR$/mains/template/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/cc1/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/cc2/main.go" />
+        <option value="$PROJECT_DIR$/runtime/main.go" />
+        <option value="$PROJECT_DIR$/Func/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/cc3/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/cc4/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/cc5/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/cc5.1/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/chanclose/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/chanconv/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/chanbase/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/chanbase0/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/select/selectval.go" />
+        <option value="$PROJECT_DIR$/concurrency/selectrandom/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/selectfor/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/chan0cap/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/timerbase/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/chantimeout/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/chantimeout2/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/tickercase/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/repeatedlylock/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/repeatedlyunlock/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/rlock/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/copiedvalue/main.go" />
+        <option value="$PROJECT_DIR$/concurrency/once/main.go" />
       </list>
     </option>
   </component>
@@ -248,7 +238,7 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="添加" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -266,18 +256,13 @@
             <path>
               <item name="go-basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="mains" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="mains" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="once" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,13 +272,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cipnotify" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -316,12 +307,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (4)">
+  <component name="RunManager" selected="Go Build.go build main.go (5)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-basic" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/mains/websocket/main.go" />
+      <filePath value="$PROJECT_DIR$/concurrency/repeatedlyunlock/main.go" />
       <package value="go-basic" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -330,7 +321,7 @@
       <module name="go-basic" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/mains/fsnotify/main.go" />
+      <filePath value="$PROJECT_DIR$/concurrency/copiedvalue/main.go" />
       <package value="go-basic" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -339,16 +330,16 @@
       <module name="go-basic" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/mains/fsnotify2/main.go" />
+      <filePath value="$PROJECT_DIR$/concurrency/rlock/main.go" />
       <package value="go-basic" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-basic" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/mains/delay/main.go" />
+      <filePath value="$PROJECT_DIR$/concurrency/once/main.go" />
       <package value="go-basic" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -357,16 +348,16 @@
       <module name="go-basic" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/mains/ginmain/main.go" />
+      <filePath value="$PROJECT_DIR$/concurrency/repeatedlylock/main.go" />
       <package value="go-basic" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (4)" />
-        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build main.go (5)" />
         <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
@@ -395,20 +386,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22800429" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23294243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.25171626" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32951945" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2516269" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30260304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32951945" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32951945" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32951945" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info active="true" anchor="bottom" id="调试" order="12" visible="true" weight="0.32951945" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -445,6 +436,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -466,292 +471,42 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/mains/ginmain/main.go</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/mains/websocket/main.go</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/mains/websocket/main.go</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/mains/websocket/main.go</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/websocket/websocket.go</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/fsnotify/myfsnotify.go</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/delay/delayjob.go</url>
           <line>111</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/crawler/fetcher/fetcher.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/scheduler/queued.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-786">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#210#240#0" expanded="true" />
-            <element signature="n#!!block;n#Run#0" expanded="true" />
-            <element signature="e#742#758#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/scheduler/readynotifier.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/scheduler/queuescheduler.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/scheduler/scheduler.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/scheduler/simplescheduler.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/engine/concurrentEngine.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-          <folding>
-            <element signature="e#130#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/err.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="e#107#130#0" expanded="true" />
-            <element signature="n#!!block;n#CheckError#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/limit/ratelimiter.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#116#178#0" expanded="true" />
-            <element signature="e#593#644#0" expanded="true" />
-            <element signature="n#!!block;n#handle#0" expanded="true" />
-            <element signature="e#737#767#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/limit/windowlimiter.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding>
-            <element signature="e#118#196#0" expanded="true" />
-            <element signature="n#!!block;n#handleWindow#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/log.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!block;n#ConfigFileLogger#0" expanded="true" />
-            <element signature="e#541#551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/user.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/go.mod">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/router/router.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#112#276#0" expanded="true" />
-            <element signature="e#606#614#0" expanded="true" />
-            <element signature="n#!!block;n#Insert#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protobuf/helloworld.proto">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pprof/pprof.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#110#173#0" expanded="true" />
-            <element signature="n#!!block;n#PprofMonitor#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/questions/question1.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <element signature="e#132#137#0" expanded="true" />
-            <element signature="n#!!block;n#Defer_call#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/questions/question2.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding>
-            <element signature="e#177#189#0" expanded="true" />
-            <element signature="n#!!block;n#Pase_Student#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rpc/client/httpClient/client.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rpc/client/tcpClient/client.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rpc/server/jsonrpcClient/client.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tag/tag.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="e#106#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/mutex/mutex.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#110#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mytime/timesignal.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2079">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!block;n#runTask#0" expanded="true" />
-            <element signature="e#522#561#0" expanded="true" />
-            <element signature="n#!!block;n#initTask#0" expanded="true" />
-            <element signature="n#!!block;n#sendTask#0" expanded="true" />
-            <element signature="n#!!block;n#Run#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/channel/channel.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="e#117#142#0" expanded="true" />
-            <element signature="n#!!block;n#PrintByBufferChannel#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawler/model/profile.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -822,31 +577,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Go/src/sync/mutex.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Go/src/sync/rwmutex.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Go/src/net/http/server.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="2399" selection-start-line="2399" selection-end-line="2399" />
-          <folding>
-            <element signature="e#73971#74334#0" expanded="true" />
-            <element signature="e#74788#74832#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Go/src/sync/mutex.go" />
+    <entry file="file://E:/Go/src/sync/rwmutex.go" />
+    <entry file="file://E:/Go/src/net/http/server.go" />
     <entry file="file://$PROJECT_DIR$/mains/websocket/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -857,20 +590,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/GOPATH/pkg/mod/github.com/fsnotify/fsnotify@v1.4.7/windows.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/GOPATH/pkg/mod/github.com/fsnotify/fsnotify@v1.4.7/fsnotify.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/GOPATH/pkg/mod/github.com/fsnotify/fsnotify@v1.4.7/windows.go" />
+    <entry file="file://E:/GOPATH/pkg/mod/github.com/fsnotify/fsnotify@v1.4.7/fsnotify.go" />
     <entry file="file://$PROJECT_DIR$/path/gopath.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -888,84 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mains/fsnotify/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#108#173#0" expanded="true" />
-            <element signature="n#!!block;n#main#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fsnotify/myfsnotify.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#120#169#0" expanded="true" />
-            <element signature="e#470#487#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mains/fsnotify2/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#108#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fsnotify/mynotify2.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#119#178#0" expanded="true" />
-            <element signature="n#!!block;n#WatchDir#0" expanded="true" />
-            <element signature="e#369#390#0" expanded="true" />
-            <element signature="e#1396#1415#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fsnotify/mynotify3.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-621">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#112#142#0" expanded="true" />
-            <element signature="n#!!block;n#GetPid#0" expanded="true" />
-            <element signature="n#!!block;n#StartProcess#0" expanded="true" />
-            <element signature="e#856#878#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mains/fsnotify3/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
-          <folding>
-            <element signature="e#108#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mains/delay/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#108#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/template.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -980,35 +623,301 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fsnotify/mynotify2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsnotify/mynotify3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mains/fsnotify3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/delay/delayjob.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state>
           <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mains/delay/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mains/fsnotify2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#163#188#0" expanded="true" />
-            <element signature="n#!!block;n#NewDelayMessage#0" expanded="true" />
-            <element signature="n#!!block;n#Start#0" expanded="true" />
-            <element signature="n#!!block;n#Close#0" expanded="true" />
-            <element signature="e#1130#1155#0" expanded="true" />
-            <element signature="n#!!block;n#timeLoop#0" expanded="true" />
-            <element signature="n#!!block;n#AddTask#0" expanded="true" />
+            <element signature="e#108#171#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mains/fsnotify/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mains/template/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="206" column="60" selection-start-line="206" selection-start-column="60" selection-end-line="206" selection-end-column="60" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsnotify/myfsnotify.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
-            <element signature="e#108#141#0" expanded="true" />
-            <element signature="e#454#474#0" expanded="true" />
-            <element signature="e#681#699#0" expanded="true" />
-            <element signature="e#1144#1161#0" expanded="true" />
-            <element signature="e#1480#1519#0" expanded="true" />
-            <element signature="e#2042#2076#0" expanded="true" />
-            <element signature="e#2698#2733#0" expanded="true" />
+            <element signature="e#98#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Func/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/cc4/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="25" column="76" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/cc5/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="22" lean-forward="true" selection-end-line="54" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/cc5.1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/go-for/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/cc3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="19" column="94" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/chanclose/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/chanconv/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/chanbase/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+          <folding>
+            <element signature="e#101#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/chanbase0/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/select/selectval.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/selectrandom/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/selectfor/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/chan0cap/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="44" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/timerbase/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/chantimeout/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/chantimeout2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <element signature="e#99#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6512">
+          <caret line="301" selection-start-line="301" selection-end-line="301" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/tickercase/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/repeatedlylock/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#98#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="662" selection-start-line="662" selection-end-line="662" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/repeatedlyunlock/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#98#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/rlock/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#101#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/copiedvalue/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#98#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/once/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#101#132#0" expanded="true" />
           </folding>
         </state>
       </provider>
